@@ -1,0 +1,9 @@
+{
+  "name": "emojify-string",
+  "version": "1.0.0",
+  "description": "Transform a string into a emoji string",
+  "main": "lib/index.js",
+  "keywords": ["emoji", "emoji-string", "string", "fun", "slack"],
+  "author": "lucianopf",
+  "license": "ISC"
+}
